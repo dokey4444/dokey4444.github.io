@@ -1,6 +1,7 @@
 title: Linux进程调度
 date: 2015-11-16 23:18:54
-tags:
+categories: undefined
+tags: Linux-Kernel
 ---
 # Linux进程分类
 
