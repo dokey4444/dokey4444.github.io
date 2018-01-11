@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: 子谋的技术博客
+subtitle: Elwin.Gao's TechBlog
 description:
-author: John Doe
+author: ELwin.Gao
 language:
 timezone:
 
@@ -79,5 +79,5 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/dokey4444/dokey4444.github.io.git
-branch: master
+  branch: master
 
