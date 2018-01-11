@@ -37,3 +37,8 @@ npm install hexo-deployer-git --save
 hexo deploy（或 hexo d）
 ```
 
+# 4、更多参考文章
+http://ijiaober.github.io/2014/08/05/hexo/hexo-04/
+https://thief.one/2017/03/03/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/
+http://blog.csdn.net/bigpudding24/article/details/48196939
+
